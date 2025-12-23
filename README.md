@@ -19,8 +19,8 @@ To ensure maximum coverage with the most efficient number of tests, I applied th
 | **Invalid Data** | Characters (abc), Blank | Declined / Validation Error |
 
 ## Files in this Repository
-* `Bank_TestCases.xlsx`: The main test case document containing steps, expected results, and execution status.
-* `Bank_TestCases.pdf`: A non-editable version for quick viewing.
+* `Bank_TestCase.xlsx`: The main test case document containing steps, expected results, and execution status.
+* `Bank_TestCase.pdf`: A non-editable version for quick viewing.
 
 ## Author
 * **Barsha** - QA Tester / Manual Testing Portfolio
